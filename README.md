@@ -24,6 +24,6 @@
 >   <img src="https://img.shields.io/badge/My-Linkedin-black?style=plastic&logo=linkedin&logoColor=white&labelColor=rgb(10%2C102%2C194)&color=rgb(61%2C61%2C61)" alt="My linkedin profile badge">
 > </a>
 > &nbsp; &nbsp; &nbsp; 
-> <a href="https://casey-miller-portfolio.herokuapp.com/" target="_blank">
+> <a href="https://maguire-wilson-portfolio-4305fd6e7d9c.herokuapp.com" target="_blank">
 >   <img src="https://img.shields.io/badge/My-Portfolio-black?style=plastic&logo=powershell&labelColor=rgb(85%2C85%2C85)&color=rgb(61%2C111%2C194)" alt="My portfolio badge">
 > </a>
